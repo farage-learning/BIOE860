@@ -1,0 +1,69 @@
+# =============================================================
+# SAFETY FIRST — this is a PUBLIC repository.
+# Nothing containing PHI or restricted data may be committed.
+# =============================================================
+
+# Restricted / identifiable data — never commit
+data/restricted/
+data/raw/
+data/phi/
+*_phi.*
+*_identified.*
+*_PHI.*
+
+# Credentials
+.env
+.Renviron
+*.pem
+*.key
+credentials.*
+config.secret.*
+.redcap_token
+
+# Solutions (keep these in a separate PRIVATE repo)
+**/solutions/
+*-solutions.*
+*_solutions.*
+*-key.pdf
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Jupyter / knitr build artifacts
+*.html
+!index.html
+*_cache/
+*_files/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jekyll build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Large files — host these externally instead
+*.zip
+*.tar.gz
+*.sav
+*.dta
