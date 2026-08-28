@@ -1,6 +1,6 @@
 theme: minima
-title: "BIOE 860 — Data Science I"
-description: "Data Acquisition and Management · Spring 2027 · UTHSC Division of Biostatistics"
+# title: "BIOE 860 — Data Science I"
+# description: "Data Acquisition and Management · Spring 2027 · UTHSC Division of Biostatistics"
 
 # Files Jekyll should not copy into the built site
 exclude:
