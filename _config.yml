@@ -1,9 +1,6 @@
-remote_theme: LeNPaul/academic
+theme: minima
 title: "BIOE 860 — Data Science I"
 description: "Data Acquisition and Management · Spring 2027 · UTHSC Division of Biostatistics"
-
-plugins:
-  - jekyll-remote-theme
 
 # Files Jekyll should not copy into the built site
 exclude:
