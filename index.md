@@ -9,7 +9,7 @@ The University of Tennessee Health Sciences
 ---
 ## Add/drop deadlines
 
-The last date to add/drop Spring term course without grade desgnation is TBA. Please act accordingly.
+The last date to add/drop a Spring term course without a grade designation is TBA. Please act accordingly.
 
 ---
 ## Time/Place
