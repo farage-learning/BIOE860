@@ -3,7 +3,6 @@ layout: page
 title: BIOE 860 — Data Science I: Data Acquisition and Management
 ---
 
-# BIOE 860 — Data Science I: Data Acquisition and Management
 
 **Spring 2027 · 3 credit hours · 16 weeks · Synchronous online with hands-on labs**
 
