@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BIOE 860 — Data Science I: Data Acquisition and Management
+title: "BIOE 860 — Data Science I: Data Acquisition and Management"
 ---
 
 
