@@ -29,9 +29,9 @@ The last date to add/drop a Spring term course without a grade designation is TB
 
 | Week | Topic | Materials | Due |
 |:----:|:------|:----------|:----|
-| 1 | **Introduction to Biomedical Data Science**<br><small>Data science lifecycle; FAIR data principles</small> | [Slides](slides/week01-intro.pdf) | — |
-| 2 | **Data Sources & Governance**<br><small>Public vs. private vs. restricted (CERNER, UTHSC EDW)<br>*Lab: navigating data dictionaries and access request forms*</small> | [Slides](slides/week02-data-sources.pdf) | [HW 1](homework/hw01.pdf) |
-| 3 | **Project Structure & Hygiene**<br><small>Raw vs. processed directories; version control (Git); file naming<br>*Lab: setting up a repository and local environment*</small> | [Slides](slides/week03-project-structure.pdf) | [HW 2](homework/hw02.pdf) |
+| 1 | **Introduction to Biomedical Data Science**<br><small>Data science lifecycle; FAIR data principles</small> | [Slides](slides/BIOE860_Week1_Data_Science_Lifecycle.pdf) | — |
+| 2 | **Data Sources & Governance**<br><small>Public vs. private vs. restricted (CERNER, UTHSC EDW)<br>*Lab: navigating data dictionaries and access request forms*</small> | [Slides](slides/BIOE860_Week2_Data_Governance.pdf) | [HW 1](homework/hw01.pdf) |
+| 3 | **Project Structure & Hygiene**<br><small>Raw vs. processed directories; version control (Git); file naming<br>*Lab: setting up a repository and local environment*</small> | [Slides](slides/BIOE860_Week3_Project_Structure_Git.pdf) | [HW 2](homework/hw02.pdf) |
 
 ### Module 2 — Acquisition, Tools, & Feasibility
 
