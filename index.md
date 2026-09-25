@@ -37,7 +37,7 @@ The last date to add/drop a Spring term course without a grade designation is TB
 
 | Week | Topic | Materials | Due |
 |:----:|:------|:----------|:----|
-| 4 | **Developing Research Questions**<br><small>FINER criteria; matching questions to data availability</small> | [Slides](slides/BIOE860_Week04_finer.pdf) | [HW 3](homework/hw03.pdf) |
+| 4 | **Developing Research Questions**<br><small>FINER criteria; matching questions to data availability</small> | [Slides](slides/BIOE860_Week4_finer.pdf) | [HW 3](homework/hw03.pdf) |
 | 5 | **Database Formats & Storage**<br><small>CSV/TSV, JSON/NDJSON, HDF5, Feather, Excel</small> | [Slides](slides/week05-formats.pdf) | [HW 4](homework/hw04.pdf) |
 | 6 | **Toolset I — Relational Databases & SQL**<br><small>SQL for data exploration<br>*Lab: querying a sample clinical database*</small> | [Slides](slides/week06-sql.pdf) | [HW 5](homework/hw05.pdf) |
 | 7 | **Toolset II — Interoperability & APIs**<br><small>REST API concepts and usage<br>*Lab: fetching data programmatically in Python/R*</small> | [Slides](slides/week07-apis.pdf) | [HW 6](homework/hw06.pdf) |
