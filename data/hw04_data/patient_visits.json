@@ -1,0 +1,82 @@
+[
+  {
+    "participant_id": "0012",
+    "visit_date": "2026-01-08",
+    "age": 54,
+    "sex": "F",
+    "height_cm": 165.1,
+    "weight_kg": 80.7,
+    "hba1c": 7.8,
+    "diabetes_status": "Yes"
+  },
+  {
+    "participant_id": "0013",
+    "visit_date": "2026-01-09",
+    "age": 61,
+    "sex": "M",
+    "height_cm": 177.8,
+    "weight_kg": 96.2,
+    "hba1c": 8.4,
+    "diabetes_status": "Yes"
+  },
+  {
+    "participant_id": "0014",
+    "visit_date": "2026-01-11",
+    "age": 47,
+    "sex": "F",
+    "height_cm": 160.0,
+    "weight_kg": 68.5,
+    "hba1c": 5.9,
+    "diabetes_status": "No"
+  },
+  {
+    "participant_id": "0015",
+    "visit_date": "2026-01-12",
+    "age": 39,
+    "sex": "M",
+    "height_cm": 182.9,
+    "weight_kg": 88.5,
+    "hba1c": 6.2,
+    "diabetes_status": "No"
+  },
+  {
+    "participant_id": "0016",
+    "visit_date": "2026-01-13",
+    "age": 68,
+    "sex": "F",
+    "height_cm": 162.6,
+    "weight_kg": 74.8,
+    "hba1c": 9.1,
+    "diabetes_status": "Yes"
+  },
+  {
+    "participant_id": "0017",
+    "visit_date": "2026-01-15",
+    "age": 58,
+    "sex": "M",
+    "height_cm": 175.3,
+    "weight_kg": 85.3,
+    "hba1c": 7.2,
+    "diabetes_status": "Yes"
+  },
+  {
+    "participant_id": "0018",
+    "visit_date": "2026-01-16",
+    "age": 44,
+    "sex": "F",
+    "height_cm": 167.6,
+    "weight_kg": 71.4,
+    "hba1c": null,
+    "diabetes_status": "No"
+  },
+  {
+    "participant_id": "0019",
+    "visit_date": "2026-01-18",
+    "age": 52,
+    "sex": "M",
+    "height_cm": 180.3,
+    "weight_kg": 93.0,
+    "hba1c": 6.7,
+    "diabetes_status": "No"
+  }
+]
